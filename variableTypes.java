@@ -29,6 +29,18 @@ public class variableTypes {
     //String = words....
     String words = "This is a string";
     System.out.println (words);
+    //var keyword test
+    var myvar = 4;
+    var myvar1 ="this is keyword var to determine what it is";
+    var myvar2 = 31782;
+    var myvar3 = 27;
+    var myvar4 =47;
+    System.out.println (myvar);
+    System.out.println (myvar1);
+    System.out.println (myvar2);
+    System.out.println (myvar3 ==27);
+    System.out.println (myvar4 ==49);
+
 
 
 
